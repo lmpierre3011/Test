@@ -17,15 +17,6 @@ Feature: sample karate test script
     Examples: 
       | read('datos.csv') |
       # | name  |
-      #| Leanne Graham |
-      #| Ervin Howell |
-      #| Clementine Bauch |
-      #| Patricia Lebsack |
-      # | Chelsey Dietrich |
-      # | Mrs. Dennis Schulist |
-      # | Kurtis Weissnat |
-      # | Nicholas Runolfsdottir V |
-      #| Clementina DuBuque |
 
   Scenario: create a user and then get it by id
     * def user =
