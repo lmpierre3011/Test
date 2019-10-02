@@ -1,0 +1,1 @@
+{"features":1,"ignored":0,"efficiency":0.590679542433947,"failures":{"src.test.java.examples.users.users":"[1:7] users.feature:7 - could not find or read file: DatosPrueba\/DatosPrueba.csv"},"totalTime":1475.5174969999998,"threads":1,"scenarios":2,"failed":1,"passed":1,"version":"0.9.5.RC2","elapsedTime":2498.0}
