@@ -9,7 +9,7 @@ Feature: sample karate test script
     When method get
     Then status 200
     And match response.[*].name contains ['<name>']
-    *  first = response[0]
+    * def first = response[0]
     Given path 'users', first.id
     When method get
     Then status 200
